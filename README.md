@@ -4,14 +4,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/SyedAteef-07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SyedAteef-07/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/SyedAteef-07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SyedAteef-07/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/SyedAteef-07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SyedAteef-07/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
