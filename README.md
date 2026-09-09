@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/SyedAteef-07/DSA/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
