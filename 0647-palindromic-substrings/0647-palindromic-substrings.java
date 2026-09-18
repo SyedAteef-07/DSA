@@ -1,22 +1,22 @@
 class Solution {
     public int countSubstrings(String s) {
         int n=s.length();
+        int start=0;
+        int end=0;
         int count=0;
         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(ispolindrom(s,i,j)){
-                    count++;
-                }
-            }
+            count+=ispolindrom(s,i,i);
+            count+=ispolindrom(s,i,i+1);
         }
         return count;
     }
-    private boolean ispolindrom(String s,int i,int j){
-        while(i<j){
-            if(s.charAt(i)!=s.charAt(j)) return false;
-            i++;
-            j--;
+    private int ispolindrom(String s,int i,int j){
+        int count=0;
+        while(i>=0 && j<s.length() && s.charAt(i)==s.charAt(j)){
+            count++;
+            i--;
+            j++;
         }
-        return true;
+        return count;
     }
 }
