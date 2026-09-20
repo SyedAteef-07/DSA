@@ -3,24 +3,27 @@ class Solution {
 
         if (s1.length() > s2.length()) return false;
 
-        Map<Character, Integer> fmap = new HashMap<>();
+        Map<Character, Integer> map = new HashMap<>();
 
         for (int i = 0; i < s1.length(); i++) {
             char c = s1.charAt(i);
-            fmap.put(c, fmap.getOrDefault(c, 0) + 1);
+            map.put(c, map.getOrDefault(c, 0) + 1);
         }
+        int j=0; int count=s1.length();
+        for (int i = 0; i <s2.length(); i++) {
+            char c=s2.charAt(i);
+            int val=map.getOrDefault(c,0);
+            if(val>0) count--;
+            map.put(c,val-1);
 
-        for (int i = 0; i <= s2.length() - s1.length(); i++) {
+            if(count==0) return true;
 
-            Map<Character, Integer> smap = new HashMap<>();
-
-            for (int j = i; j < i + s1.length(); j++) {
-                char c = s2.charAt(j);
-                smap.put(c, smap.getOrDefault(c, 0) + 1);
-            }
-
-            if (fmap.equals(smap)) {
-                return true;
+            if(i-j+1==s1.length()){
+                char w=s2.charAt(j);
+                int left=map.get(w);
+                if(left>=0) count++;
+                map.put(w,left+1);
+                j++;
             }
         }
 
