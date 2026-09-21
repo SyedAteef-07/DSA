@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SyedAteef-07/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SyedAteef-07/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/SyedAteef-07/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SyedAteef-07/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/SyedAteef-07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SyedAteef-07/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/SyedAteef-07/DSA/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
