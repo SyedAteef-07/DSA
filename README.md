@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SyedAteef-07/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SyedAteef-07/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SyedAteef-07/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SyedAteef-07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SyedAteef-07/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SyedAteef-07/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SyedAteef-07/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SyedAteef-07/DSA/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SyedAteef-07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/SyedAteef-07/DSA/tree/master/0704-binary-search) |
 ## Prefix Sum
