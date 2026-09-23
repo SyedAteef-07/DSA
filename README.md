@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SyedAteef-07/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SyedAteef-07/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1314-matrix-block-sum](https://github.com/SyedAteef-07/DSA/tree/master/1314-matrix-block-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SyedAteef-07/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SyedAteef-07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SyedAteef-07/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SyedAteef-07/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SyedAteef-07/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SyedAteef-07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SyedAteef-07/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Counting
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SyedAteef-07/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/SyedAteef-07/DSA/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SyedAteef-07/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SyedAteef-07/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/SyedAteef-07/DSA/tree/master/1314-matrix-block-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
