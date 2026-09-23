@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SyedAteef-07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SyedAteef-07/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SyedAteef-07/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/SyedAteef-07/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SyedAteef-07/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SyedAteef-07/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/SyedAteef-07/DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
 | [3871-count-commas-in-range-ii](https://github.com/SyedAteef-07/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Matrix
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SyedAteef-07/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/SyedAteef-07/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/SyedAteef-07/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SyedAteef-07/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/SyedAteef-07/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SyedAteef-07/DSA/tree/master/0647-palindromic-substrings) |
