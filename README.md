@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SyedAteef-07/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SyedAteef-07/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/SyedAteef-07/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SyedAteef-07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/SyedAteef-07/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -166,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SyedAteef-07/DSA/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
