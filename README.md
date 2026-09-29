@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SyedAteef-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/SyedAteef-07/DSA/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/SyedAteef-07/DSA/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/SyedAteef-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SyedAteef-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SyedAteef-07/DSA/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SyedAteef-07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SyedAteef-07/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SyedAteef-07/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/SyedAteef-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SyedAteef-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SyedAteef-07/DSA/tree/master/0567-permutation-in-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SyedAteef-07/DSA/tree/master/0496-next-greater-element-i) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/SyedAteef-07/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SyedAteef-07/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
