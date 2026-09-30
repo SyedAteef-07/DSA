@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SyedAteef-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SyedAteef-07/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SyedAteef-07/DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SyedAteef-07/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/SyedAteef-07/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SyedAteef-07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SyedAteef-07/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SyedAteef-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SyedAteef-07/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SyedAteef-07/DSA/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -203,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SyedAteef-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SyedAteef-07/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SyedAteef-07/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
