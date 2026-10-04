@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SyedAteef-07/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SyedAteef-07/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/SyedAteef-07/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/SyedAteef-07/DSA/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SyedAteef-07/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SyedAteef-07/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/SyedAteef-07/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/SyedAteef-07/DSA/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SyedAteef-07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/SyedAteef-07/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SyedAteef-07/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/SyedAteef-07/DSA/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/SyedAteef-07/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SyedAteef-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SyedAteef-07/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SyedAteef-07/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/SyedAteef-07/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/SyedAteef-07/DSA/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
