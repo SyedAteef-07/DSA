@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SyedAteef-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/SyedAteef-07/DSA/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/SyedAteef-07/DSA/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/SyedAteef-07/DSA/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/SyedAteef-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SyedAteef-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SyedAteef-07/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/SyedAteef-07/DSA/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/SyedAteef-07/DSA/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/SyedAteef-07/DSA/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/SyedAteef-07/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SyedAteef-07/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SyedAteef-07/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SyedAteef-07/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SyedAteef-07/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SyedAteef-07/DSA/tree/master/0344-reverse-string) |
+| [0475-heaters](https://github.com/SyedAteef-07/DSA/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/SyedAteef-07/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SyedAteef-07/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/SyedAteef-07/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/SyedAteef-07/DSA/tree/master/0475-heaters) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SyedAteef-07/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Monotonic Stack
 |  |
