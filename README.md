@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SyedAteef-07/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SyedAteef-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SyedAteef-07/DSA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/SyedAteef-07/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SyedAteef-07/DSA/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
 | [3871-count-commas-in-range-ii](https://github.com/SyedAteef-07/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SyedAteef-07/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/SyedAteef-07/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SyedAteef-07/DSA/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/SyedAteef-07/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SyedAteef-07/DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/SyedAteef-07/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/SyedAteef-07/DSA/tree/master/0344-reverse-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/SyedAteef-07/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SyedAteef-07/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SyedAteef-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/SyedAteef-07/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SyedAteef-07/DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/SyedAteef-07/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SyedAteef-07/DSA/tree/master/0394-decode-string) |
@@ -265,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/SyedAteef-07/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/SyedAteef-07/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
