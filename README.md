@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/SyedAteef-07/DSA/tree/master/1314-matrix-block-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SyedAteef-07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SyedAteef-07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SyedAteef-07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SyedAteef-07/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SyedAteef-07/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyedAteef-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SyedAteef-07/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SyedAteef-07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/SyedAteef-07/DSA/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SyedAteef-07/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SyedAteef-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SyedAteef-07/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SyedAteef-07/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SyedAteef-07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
