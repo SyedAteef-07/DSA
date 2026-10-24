@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SyedAteef-07/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SyedAteef-07/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SyedAteef-07/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/SyedAteef-07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SyedAteef-07/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SyedAteef-07/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SyedAteef-07/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/SyedAteef-07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SyedAteef-07/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/SyedAteef-07/DSA/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SyedAteef-07/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3477-fruits-into-baskets-ii](https://github.com/SyedAteef-07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/SyedAteef-07/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
@@ -306,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/SyedAteef-07/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SyedAteef-07/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/SyedAteef-07/DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/SyedAteef-07/DSA/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
