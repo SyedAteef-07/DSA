@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/SyedAteef-07/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SyedAteef-07/DSA/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
+| [2409-count-days-spent-together](https://github.com/SyedAteef-07/DSA/tree/master/2409-count-days-spent-together) |
 | [3871-count-commas-in-range-ii](https://github.com/SyedAteef-07/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Matrix
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/SyedAteef-07/DSA/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SyedAteef-07/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2409-count-days-spent-together](https://github.com/SyedAteef-07/DSA/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SyedAteef-07/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SyedAteef-07/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SyedAteef-07/DSA/tree/master/3498-reverse-degree-of-a-string) |
