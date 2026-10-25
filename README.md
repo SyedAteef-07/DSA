@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SyedAteef-07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SyedAteef-07/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/SyedAteef-07/DSA/tree/master/0205-isomorphic-strings) |
+| [0299-bulls-and-cows](https://github.com/SyedAteef-07/DSA/tree/master/0299-bulls-and-cows) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SyedAteef-07/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SyedAteef-07/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/SyedAteef-07/DSA/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SyedAteef-07/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SyedAteef-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/SyedAteef-07/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SyedAteef-07/DSA/tree/master/0227-basic-calculator-ii) |
+| [0299-bulls-and-cows](https://github.com/SyedAteef-07/DSA/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/SyedAteef-07/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/SyedAteef-07/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/SyedAteef-07/DSA/tree/master/0394-decode-string) |
