@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SyedAteef-07/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SyedAteef-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/SyedAteef-07/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SyedAteef-07/DSA/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/SyedAteef-07/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SyedAteef-07/DSA/tree/master/0227-basic-calculator-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SyedAteef-07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SyedAteef-07/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SyedAteef-07/DSA/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/SyedAteef-07/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/SyedAteef-07/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SyedAteef-07/DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/SyedAteef-07/DSA/tree/master/0316-remove-duplicate-letters) |
