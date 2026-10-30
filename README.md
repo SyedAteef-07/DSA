@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SyedAteef-07/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/SyedAteef-07/DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SyedAteef-07/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/SyedAteef-07/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/SyedAteef-07/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SyedAteef-07/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/SyedAteef-07/DSA/tree/master/0680-valid-palindrome-ii) |
