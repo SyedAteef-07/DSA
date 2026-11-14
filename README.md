@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/SyedAteef-07/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/SyedAteef-07/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/SyedAteef-07/DSA/tree/master/2485-find-the-pivot-integer) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SyedAteef-07/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SyedAteef-07/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2409-count-days-spent-together](https://github.com/SyedAteef-07/DSA/tree/master/2409-count-days-spent-together) |
+| [2485-find-the-pivot-integer](https://github.com/SyedAteef-07/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/SyedAteef-07/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Matrix
 |  |
