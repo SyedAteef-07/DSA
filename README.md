@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SyedAteef-07/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SyedAteef-07/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SyedAteef-07/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SyedAteef-07/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SyedAteef-07/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SyedAteef-07/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SyedAteef-07/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SyedAteef-07/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SyedAteef-07/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1314-matrix-block-sum](https://github.com/SyedAteef-07/DSA/tree/master/1314-matrix-block-sum) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SyedAteef-07/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SyedAteef-07/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SyedAteef-07/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/SyedAteef-07/DSA/tree/master/1732-find-the-highest-altitude) |
